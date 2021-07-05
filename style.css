@@ -75,6 +75,9 @@ header{
     margin-bottom: 100px;
     
 }
+.third-banner{
+    margin-bottom: 50px;
+}
 .center-txt{
     text-align: center;
 }
@@ -82,3 +85,22 @@ header{
     width: 100%;
     text-align: center;
 }
+.flex-card{
+ display: flex;
+ justify-content: space-around;
+}
+.card:hover{
+    box-shadow: 10px 10px 20px grey;
+}
+.card{
+    width: 350px;
+    cursor: pointer;
+    border: 20px solid white;
+    border-radius: 18px;
+    box-shadow: 10px 5px 40px grey;
+    margin-bottom: 50px;
+}
+.card-img{
+    width: 100%;
+}
+

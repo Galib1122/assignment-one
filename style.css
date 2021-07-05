@@ -76,15 +76,13 @@ header{
     
 }
 .third-banner{
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 .center-txt{
     text-align: center;
 }
-.fourth-banner-img{
-    width: 100%;
-    text-align: center;
-}
+
+
 .flex-card{
  display: flex;
  justify-content: space-around;

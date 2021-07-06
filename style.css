@@ -33,7 +33,7 @@ header{
 }
 .text-width{
     padding: 2%;
-    margin: 2.5% 5% 2% 2%;
+    margin: 5.5% 5% 2% 4%;
     width: 50%;
 }
 .btn-area{
@@ -66,13 +66,13 @@ header{
 }
 .img-width{
     width: 82%;
-    margin: 45px 40px 0 40px;
+    margin: 55px 40px 0 40px;
     padding: 10px;
 }
 .first-banner{
     background: url(images/shapes/last-banner.png) no-repeat  ;
     background-size: 5%;
-    margin-bottom: 80px;
+    margin-bottom: 70px;
 }
 
 .sec-banner{

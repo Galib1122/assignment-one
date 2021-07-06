@@ -3,7 +3,6 @@
     margin: 0;
     box-sizing: border-box;
 }
-
 h1,h3,p{
     padding: 1%;
     margin-left: 4%;
@@ -22,7 +21,6 @@ a{
     background-position: center;
     margin-bottom: 50px;
 }
-
 .opening-banner-upper-sec{
     height: 80px;
     margin: 20px 0 20px 10px;
@@ -73,12 +71,9 @@ a{
     margin: 5.5% 5% 2% 4%;
     width: 50%;
 }
-
 .btn-link:hover{
     color: #000;
-    background: linear-gradient(#FFE985,#FA742B);
-    
-    
+    background: linear-gradient(#FFE985,#FA742B);   
 }
 .btn-link{
     text-decoration: none;
@@ -104,11 +99,9 @@ a{
     background-size: 5%;
     margin-bottom: 70px;
 }
-
 .sec-banner{
     background: url(images/shapes/middle-banner.png) no-repeat 100% ;
-    margin-bottom: 100px;
-    
+    margin-bottom: 100px;   
 }
 .third-banner{
     margin-bottom: 100px;
@@ -117,7 +110,6 @@ a{
     margin: 5px;
     text-align: center;
 }
-
 .flex-card{
  display: flex;
  justify-content: space-around;
@@ -158,6 +150,5 @@ footer{
     padding: 70px;
     background-color: #000;
     margin: 55px 10px 10px 10px;
-
 }
 
